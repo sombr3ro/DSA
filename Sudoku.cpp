@@ -1,3 +1,12 @@
+/*
+This is script that prints a valid solution to the problem of a 9x9 Sudoku
+
+Input format
+--------------
+First line is the number of test cases
+Next 9 lines describe an incomplete sudoku (0 is used for unnfilled box)
+*/
+
 #include<iostream>
 #include<vector>
 
