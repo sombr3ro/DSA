@@ -1,3 +1,7 @@
+/*
+This contains the implementaion of a Huffman class that implements Huffman Coding
+*/
+
 #include<iostream>
 #include<queue>
 #include<sstream>
